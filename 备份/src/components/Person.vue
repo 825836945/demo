@@ -4,7 +4,7 @@
         <h2>年龄：{{ age }}</h2>
         <!-- <h2>地址：{{ adress }}</h2> -->
         <button @click="change">修改信息</button>
-        <button @click=" changeAge">修改年龄</button>
+        <button @click=" changeAge">修改年龄123</button>
         <button @click="showTel">查看联系方式</button>
     </div>
 </template>
